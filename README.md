@@ -2,9 +2,25 @@
 
 This repository contains the code and projects from my Python learning journey.
 
-## Day 1: Introduction to Programming
+# Python Learning Journey 🚀
 
-On Day 1, I focused on understanding the basics of programming and setting up the development environment. The first step is always the most important, and I am excited to continue the journey ahead!
+This repository documents my daily progress as I learn Python programming. Follow along as I build my skills, one day at a time!
+
+---
+
+## Day 1: Introduction to Programming  
+- Learned the basics of programming and Python.  
+- Explored what makes Python a great language for beginners.  
+- Practiced setting up Python on my system.  
+
+---
+
+## Day 2: Variables and Data Types  
+- Learned about variables and their usage in Python.  
+- Explored data types: `int`, `float`, `str`, and `bool`.  
+- Practiced type checking using `type()` and type conversion.  
+
+Full code available [here](./day2_variables_and_datatypes.py).  
 
 ## How to use this repo:
 - Navigate through the folders for different days and projects.
