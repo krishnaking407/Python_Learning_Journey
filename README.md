@@ -22,6 +22,14 @@ This repository documents my daily progress as I learn Python programming. Follo
 
 Full code available [here](./day2_variables_and_datatypes.py).  
 
+## Day 3: Strings in Python  
+- Learned about string slicing and manipulation.  
+- Explored built-in string methods: `upper()`, `lower()`, `replace()`, etc.  
+- Practiced with multi-line strings and escaping characters.  
+
+Full code available [here](./day3_strings.py).  
+
+
 ## How to use this repo:
 - Navigate through the folders for different days and projects.
 - Each day's content will have both theory and practice exercises.
