@@ -26,8 +26,3 @@ Full code available [here](./day2_variables_and_datatypes.py).
 - Practiced with multi-line strings and escaping characters.  
 
 Full code available [here](./day3_strings.py).  
-
-
-## How to use this repo:
-- Navigate through the folders for different days and projects.
-- Each day's content will have both theory and practice exercises.
