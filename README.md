@@ -1,7 +1,3 @@
-# Python Learning Journey
-
-This repository contains the code and projects from my Python learning journey.
-
 # Python Learning Journey 🚀
 
 This repository documents my daily progress as I learn Python programming. Follow along as I build my skills, one day at a time!
