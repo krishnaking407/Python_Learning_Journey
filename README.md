@@ -16,7 +16,7 @@ This repository documents my daily progress as I learn Python programming. Follo
 - Explored data types: `int`, `float`, `str`, and `bool`.  
 - Practiced type checking using `type()` and type conversion.  
 
-Full code available [here]([./day2_variables_and_datatypes.py](https://github.com/krishnaking407/Python_Learning_Journey/tree/main/Chapter%202%20ps)).  
+Full code available [here]([[./day2_variables_and_datatypes.py](https://github.com/krishnaking407/Python_Learning_Journey/tree/main/Chapter%202%20ps)](https://github.com/krishnaking407/Python_Learning_Journey)).  
 
 ---
 
@@ -25,4 +25,4 @@ Full code available [here]([./day2_variables_and_datatypes.py](https://github.co
 - Explored built-in string methods: `upper()`, `lower()`, `replace()`, etc.  
 - Practiced with multi-line strings and escaping characters.  
 
-Full code available [here](https://github.com/krishnaking407/Python_Learning_Journey/tree/main/Chapter%203%20ps).  
+Full code available [here]([https://github.com/krishnaking407/Python_Learning_Journey/tree/main/Chapter%203%20ps](https://github.com/krishnaking407/Python_Learning_Journey)).  
